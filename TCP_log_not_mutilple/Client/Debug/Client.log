@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Client.cpp
+c:\users\lytua\documents\visual studio 2015\projects\homework04\client\business.h(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\lytua\documents\visual studio 2015\projects\homework04\client\business.h(70): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\lytua\documents\visual studio 2015\projects\homework04\client\business.h(70): warning C4309: 'initializing': truncation of constant value
+c:\users\lytua\documents\visual studio 2015\projects\homework04\client\ui.h(140): warning C4018: '<': signed/unsigned mismatch
+  Client.vcxproj -> C:\Users\lytua\Documents\Visual Studio 2015\Projects\Homework04\Debug\Client.exe
+  Client.vcxproj -> C:\Users\lytua\Documents\Visual Studio 2015\Projects\Homework04\Debug\Client.pdb (Full PDB)
