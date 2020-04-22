@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Server.cpp
+c:\users\lytua\documents\visual studio 2015\projects\homework04\server\dataio.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\lytua\documents\visual studio 2015\projects\homework04\server\dataio.h(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\lytua\documents\visual studio 2015\projects\homework04\server\dataio.h(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\lytua\documents\visual studio 2015\projects\homework04\server\business.h(158): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> C:\Users\lytua\Documents\Visual Studio 2015\Projects\Homework04\Debug\Server.exe
+  Server.vcxproj -> C:\Users\lytua\Documents\Visual Studio 2015\Projects\Homework04\Debug\Server.pdb (Full PDB)
